@@ -1,0 +1,6 @@
+{
+  "name": "Trip Hop",
+  "description": "Singapore outing planner for locals, tourists & corporate planners to compare real prices, handle wet weather contingencies, and vote on itineraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
